@@ -1,0 +1,9 @@
+Outputs:
+
+ec2_ami = "ami-05d34d340fb1d89e5"
+ec2_region = "eu-central-1"
+ec2_subnet_id = "subnet-06283fb399a4f35e6"
+ec2_type = "t2.micro"
+public_ip = "18.193.55.45"
+public_subnet_AZ = "eu-central-1a"
+public_vpc_id = "vpc-02e1c825d3995b994"
